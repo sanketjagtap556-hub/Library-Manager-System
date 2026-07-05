@@ -1,0 +1,89 @@
+[
+    {
+        "Id": "B0001",
+        "Title": "1984",
+        "Author": "Tejas Vadhane",
+        "Status": "Available",
+        "Quantity": 3
+    },
+    {
+        "Id": "B0002",
+        "Title": "Rich Dada Poor Dada",
+        "Author": "Mark Tellbary",
+        "Status": "Available",
+        "Quantity": 2
+    },
+    {
+        "Id": "B0003",
+        "Title": "To Kill a Mockingbird",
+        "Author": "Harper Lee",
+        "Status": "Available",
+        "Quantity": 4
+    },
+    {
+        "Id": "B0004",
+        "Title": "Pride and Prejudice",
+        "Author": "Jane Austen",
+        "Status": "Available",
+        "Quantity": 2
+    },
+    {
+        "Id": "B0005",
+        "Title": "The Great Gatsby",
+        "Author": "F. Scott Fitzgerald",
+        "Status": "Available",
+        "Quantity": 6
+    },
+    {
+        "Id": "B0006",
+        "Title": "Harry Potter and the Sorcerer's Stone",
+        "Author": "J.K. Rowling",
+        "Status": "Available",
+        "Quantity": 10
+    },
+    {
+        "Id": "B0007",
+        "Title": "The Hobbit",
+        "Author": "J. R. R. Tolkien",
+        "Status": "Available",
+        "Quantity": 4
+    },
+    {
+        "Id": "B0008",
+        "Title": "The Catcher in the Rye",
+        "Author": "J. D. Salinger",
+        "Status": "Available",
+        "Quantity": 3
+    },
+    {
+        "Id": "B0009",
+        "Title": "The Alchemist",
+        "Author": "Paulo Coelho",
+        "Status": "Available",
+        "Quantity": 7
+    },
+    {
+        "Id": "B0010",
+        "Title": "The Kite Runner",
+        "Author": "Khaled Hosseini",
+        "Status": "Available",
+        "Quantity": 5
+    },
+    {
+        "Id": "B0011",
+        "Title": "Life of Pi",
+        "Author": "Yann Martel",
+        "Status": "Available",
+        "Quantity": 3
+    },
+    {
+        "Title": "The life of Pi(3.14)",
+        "Author": "Leonardo da Vinci",
+        "Quantity": 4
+    },
+    {
+        "Title": "One Piece",
+        "Author": "Oda",
+        "Quantity": 4
+    }
+]
